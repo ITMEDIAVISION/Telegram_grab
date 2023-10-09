@@ -4,6 +4,8 @@ from telethon import TelegramClient, events
 from telethon.tl.functions.messages import GetHistoryRequest
 from telethon.errors import FloodWaitError
 
+#get it at https://my.telegram.org/ :)
+
 api_id = 'YOUR_API_ID'
 api_hash = 'YOUR_API_HASH'
 bot_token = 'YOUR_BOT_TOKEN'
